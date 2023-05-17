@@ -1,6 +1,6 @@
 # Reddit Scraper and Slack Bot
 
-This project extracts reddits from the Reddit API, processes them to get a sentiment score and posts them on your slack together with the sentiment score! 
+This project extracts reddits from the Reddit API, processes them to get a sentiment score and posts them on your slack together with the sentiment score! All of it is put together using Docker.
 
 To be more exact, I'm:  
 1. Scraping reddits about Berlin from the Reddit API
